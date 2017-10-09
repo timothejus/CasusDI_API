@@ -1,0 +1,8 @@
+database:
+  driverClass: com.microsoft.sqlserver.jdbc.SQLServerDriver
+
+  user: bramtim
+
+  password: CasusDI1
+
+  url: jdbc:sqlserver://vliegtuigmaatschappijgelreairport.database.windows.net/gelre_airport:1433
